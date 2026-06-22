@@ -46,4 +46,21 @@ class AppImages {
 
   static const String news2 =
       'assets/images/news/news2.png';
+  static const String gamingMouse =
+    'assets/images/products/gaming_mouse.png';
+
+static const String sportsShoes =
+    'assets/images/products/sports_shoes.png';
+
+static const String fitnessBand =
+    'assets/images/products/fitness_band.png';
+
+static const String backpack =
+    'assets/images/products/backpack.png';
+
+static const String speaker =
+    'assets/images/products/speaker.png';
+
+static const String smartBottle =
+    'assets/images/products/smart_bottle.png';    
 }
