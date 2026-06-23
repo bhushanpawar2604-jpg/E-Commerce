@@ -90,7 +90,7 @@ Provider State Management
 
 ### Cart Screen
 
-![Cart](screenshots/cart.png)
+![Cart](e_commerce_app/megamall/screenshots/cart.png)
 
 ### Checkout Screen
 
