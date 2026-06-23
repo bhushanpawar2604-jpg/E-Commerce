@@ -74,19 +74,19 @@ Provider State Management
 
 ### Splash Screen
 
-![Splash](screenshots/splash.png)
+![Splash](e_commerce_app/megamall/screenshots/splash.png)
 
 ### Login Screen
 
-![Login](screenshots/login.png)
+![Login](e_commerce_app/megamall/screenshots/login.png)
 
 ### Home Screen
 
-![Home](screenshots/home.png)
+![Home](e_commerce_app/megamall/screenshots/home.png)
 
 ### Product Details
 
-![Product](screenshots/product.png)
+![Product](e_commerce_app/megamall/screenshots/product.png)
 
 ### Cart Screen
 
@@ -94,15 +94,15 @@ Provider State Management
 
 ### Checkout Screen
 
-![Checkout](screenshots/checkout.png)
+![Checkout](e_commerce_app/megamall/screenshots/checkout.png)
 
 ### Orders Screen
 
-![Orders](screenshots/orders.png)
+![Orders](e_commerce_app/megamall/screenshots/orders.png)
 
 ### Profile Screen
 
-![Profile](screenshots/profile.png)
+![Profile](e_commerce_app/megamall/screenshots/profile.png)
 
 ---
 
